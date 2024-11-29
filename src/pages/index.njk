@@ -1,11 +1,8 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Eleventy Excellent'
+title: 'What we are'
 description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
 <div class="wrapper">
@@ -19,43 +16,57 @@ blog:
 
   <article class="full | region">
     <div class="wrapper flow prose">
-      <h2 id="an-eleventy-starter">An Eleventy starter</h2>
+      <h2 id="coming-soon">Coming Soon!</h2>
+      <p>Poesis is a community project in the process of being set up and seeking funding.</p>
       <p>
-        Built around a CSS workflow that emphasizes guiding browser styling rather than micromanaging it. It
-        incorporates progressive enhancement, fluid type and spacing, and utilizes modern CSS features for
-        layout. The goal is to develop frontends that provide a great experience across all devices,
-        connection speeds, and usage contexts.
+        If you would like to bet involved in its foundation, attend events/activities when we set-up or would
+        like to fund us, please get in touch at ……………
       </p>
-      <p>
-        <strong>This is version 3.</strong> I keep a
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v1">branch of v1</a> and
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v2">v2</a> because I have changed a lot
-        of things. I have tried to <a href="/get-started/#docs-lol">document</a> most features and
-        methodologies.
-      </p>
-      <p><strong>Have fun</strong> and let me know if you find any issues or have ideas for improvements!</p>
     </div>
   </article>
 
-  <section class="full | region">
+  <article class="full | region">
     <div class="wrapper flow prose">
-      <h2>{{ blog.title }}</h2>
-      <!-- blog intro text is optional. -->
-
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
-      {% endif %}
-
-      <div class="feature |  region">
-        <custom-masonry layout="50-50">
-          <!-- loop posts -->
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-						{% set definedDate = item.date %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
-        </custom-masonry>
-      </div>
+      <h2 id="usp">USP</h2>
+      <p>
+        Poesis is a space of invitation… to explore what it means to be human at this point of profound
+        planetary change; using our hands, heart and soul, as well as our relationship with systems and
+        society.
+      </p>
     </div>
-  </section>
+  </article>
+
+  <article class="full | region">
+    <div class="wrapper flow prose">
+      <h2 id="what-is-poesis">What is Poesis</h2>
+      <p>
+        Poesis is an intergenerational community space which invites people to gather and explore what is
+        means to be human at this time of profound planetary change.
+      </p>
+      <p>
+        We have a need to be connected; to ourselves, to each other and to the wider natural world; a need to
+        feel whole and for our lives to make sense and have meaning.
+      </p>
+      <p>
+        It is a place provides the space to reflect, contemplate, connect, cultivate, be curious, imagine,
+        innovate, heal, as well as develop radical ideas for cultural and societal change.
+      </p>
+      <p>
+        It intends to provide a home for those searching to make sense of our current reality and wanting to
+        make a difference through their own lives.
+      </p>
+      <p>
+        It does this through a combination of activities and practices, supporting us to share collective
+        experiences, collaborate, deepen insight and to be part of a healthy living culture.
+      </p>
+      <p>
+        This is all in service of contributing to the paradigm shift needed in the world, recognising that we
+        are all deeply interconnected and part of the web of life along with the more-than-human world.
+      </p>
+      <p>
+        Poesis is an emerging project, it will develop over time with the involvement of those connected to
+        it.
+      </p>
+    </div>
+  </article>
 </div>
