@@ -5,10 +5,6 @@ description: 'Poesis is a space of invitation… to explore what it means to be 
 layout: page
 ---
 
-
-
-
-
 ## Direction of travel
 
 To contribute to cultural change in response to this time of profound planetary change by creating an intergenerational community space in York, that feels like home, and invites contemplation, exploration, imagination and action for people in York and the surrounding areas and cities; connected to a wider network of people and organisations doing similar things.
@@ -37,8 +33,6 @@ Poesis provides a place for people to gather, connect and share, to make sense o
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
-
-
 ## Who the activities and practices will be for
 
     Individuals of all ages
@@ -46,8 +40,6 @@ Where we can be inspired by the wonder of the world and for new ways of being in
     Organisations societally focussed
 
     Community
-
-
 
 ## Questions exploring
 
