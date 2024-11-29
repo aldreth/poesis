@@ -12,14 +12,6 @@ export default {
       text: 'Who',
       url: '/who/',
     },
-    {
-      text: 'Built with',
-      url: '/built-with/',
-    },
-    {
-      text: 'Blog',
-      url: '/blog/',
-    },
   ],
   bottom: [
     {
