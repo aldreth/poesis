@@ -32,7 +32,7 @@ export const cssConfig = eleventyConfig => {
           postcssImport,
           tailwindcss,
           autoprefixer,
-          cssnano
+          cssnano,
         ]).process(inputContent, {from: inputPath});
 
         // Write the output to all specified paths
@@ -43,6 +43,6 @@ export const cssConfig = eleventyConfig => {
 
         return result.css;
       };
-    }
+    },
   });
 };

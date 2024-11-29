@@ -36,8 +36,8 @@ export const clampGenerator = tokens => {
     return {
       name,
       value: `clamp(${minSize}rem, ${intersection.toFixed(2)}rem + ${(slope * 100).toFixed(
-        2
-      )}vw, ${maxSize}rem)`
+        2,
+      )}vw, ${maxSize}rem)`,
     };
   });
 };

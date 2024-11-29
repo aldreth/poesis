@@ -15,22 +15,22 @@ export const markdownLib = markdownIt({
   html: true,
   breaks: true,
   linkify: true,
-  typographer: true
+  typographer: true,
 })
   .disable('code')
   .use(markdownItPrism, {
-    defaultLanguage: 'plaintext'
+    defaultLanguage: 'plaintext',
   })
   .use(markdownItAnchor, {
     slugify: slugifyString,
     tabIndex: false,
     permalink: markdownItAnchor.permalink.headerLink({
-      class: 'heading-anchor'
-    })
+      class: 'heading-anchor',
+    }),
   })
   .use(markdownItClass, {
     ol: 'list',
-    ul: 'list'
+    ul: 'list',
   })
   .use(markdownItLinkAttributes, [
     {
@@ -39,9 +39,9 @@ export const markdownLib = markdownIt({
         return href.match(/^https?:\/\//);
       },
       attrs: {
-        rel: 'noopener'
-      }
-    }
+        rel: 'noopener',
+      },
+    },
   ])
   .use(markdownItEmoji)
   .use(markdownItEleventyImg, {
@@ -49,12 +49,12 @@ export const markdownLib = markdownIt({
       widths: [440, 880, 1024],
       urlPath: '/assets/images/',
       outputDir: './dist/assets/images/',
-      formats: ['webp', 'jpeg']
+      formats: ['webp', 'jpeg'],
     },
     globalAttributes: {
       loading: 'lazy',
       decoding: 'async',
-      sizes: '90vw'
+      sizes: '90vw',
     },
     // prepend src for markdown images
     resolvePath: (filepath, env) => {
@@ -68,7 +68,7 @@ export const markdownLib = markdownIt({
 
       const metadata = Image.statsSync(src, options);
       const imageMarkup = Image.generateHTML(metadata, attrs, {
-        whitespaceMode: 'inline'
+        whitespaceMode: 'inline',
       });
 
       const imageElement = attrs.title
@@ -79,7 +79,7 @@ export const markdownLib = markdownIt({
         : `${imageMarkup}`;
 
       return imageElement;
-    }
+    },
   })
   .use(markdownItFootnote)
   .use(markdownitMark)

@@ -1,22 +1,22 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'Eleventy Excellent';
-export const siteDescription = 'Eleventy starter for building modern, resilient websites';
-export const siteType = 'Person'; // schema
+export const siteName = 'Poesis';
+export const siteDescription = 'A community project in the process of being set up and seeking funding';
+export const siteType = 'Organisation'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+  name: 'Fay Andrews-Hodgson', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.lenesaile.com', // i.e. https.://www.lenesaile.com - the personal site of the author
-  fediverse: 'https://front-end.social/@lene' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
+  email: 'fay@andrews-hodgson.com', // i.e. hola@lenesaile.com - email of the author
+  website: 'https://andrews-hodgson.com', // i.e. https.://www.lenesaile.com - the personal site of the author
+  // fediverse: 'https://front-end.social/@lene' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
 };
 export const creator = {
   name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
   email: 'hola@lenesaile.com',
   website: 'https://www.lenesaile.com',
-  social: 'https://front-end.social/@lene'
+  social: 'https://front-end.social/@lene',
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#DD4462'; //  Manifest: defines the default theme color for the application
@@ -33,13 +33,13 @@ export const blog = {
     {
       title: 'Atom Feed',
       url: '/feed.xml',
-      type: 'application/atom+xml'
+      type: 'application/atom+xml',
     },
     {
       title: 'JSON Feed',
       url: '/feed.json',
-      type: 'application/json'
-    }
+      type: 'application/json',
+    },
   ],
   // Tags
   tagSingle: 'Tag',
@@ -50,42 +50,42 @@ export const blog = {
   paginationPage: 'Page',
   paginationPrevious: 'Previous',
   paginationNext: 'Next',
-  paginationNumbers: true
+  paginationNumbers: true,
 };
 export const details = {
   aria: 'section controls',
   expand: 'expand all',
-  collapse: 'collapse all'
+  collapse: 'collapse all',
 };
 export const navigation = {
   navLabel: 'Menu',
   ariaTop: 'Main',
   ariaBottom: 'Complementary',
   ariaPlatforms: 'Platforms',
-  drawerNav: false
+  drawerNav: false,
 };
 export const themeSwitch = {
   title: 'Theme',
   light: 'light',
-  dark: 'dark'
+  dark: 'dark',
 };
 export const greenweb = {
   // this goes into src/common/greenweb.njk
   providers: {
     // if you want to add more than one, edit the array directly.
     domain: 'netlify.com',
-    service: 'cdn'
+    service: 'cdn',
   },
   credentials: {
     // optional, eg: 	{ domain='my-org.com', doctype = 'webpage', url = 'https://my-org.com/our-climate-record'}
     domain: '',
     doctype: '',
-    url: ''
-  }
+    url: '',
+  },
 };
 export const viewRepo = {
   // this is for the view/edit on github link. The value in the package.json will be pulled in.
   allow: true,
-  infoText: 'View this page on GitHub'
+  infoText: 'View this page on GitHub',
 };
-export const easteregg = true;
+export const easteregg = false;

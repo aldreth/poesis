@@ -18,6 +18,6 @@ export const svgShortcode = async (svgName, ariaName = '', className = '', style
 
   return data.replace(
     /<svg(.*?)>/,
-    `<svg$1 ${ariaName ? `aria-label="${ariaName}"` : 'aria-hidden="true"'} ${className ? `class="${className}"` : ''} ${styleName ? `style="${styleName}"` : ''} >`
+    `<svg$1 ${ariaName ? `aria-label="${ariaName}"` : 'aria-hidden="true"'} ${className ? `class="${className}"` : ''} ${styleName ? `style="${styleName}"` : ''} >`,
   );
 };

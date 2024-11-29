@@ -36,7 +36,7 @@ export const imageShortcode = async (
   className,
   sizes = '90vw',
   widths = [440, 650, 960, 1200],
-  formats = ['avif', 'webp', 'jpeg']
+  formats = ['avif', 'webp', 'jpeg'],
 ) => {
   const metadata = await Image(src, {
     widths: [...widths],
@@ -47,7 +47,7 @@ export const imageShortcode = async (
       const extension = path.extname(src);
       const name = path.basename(src, extension);
       return `${name}-${width}w.${format}`;
-    }
+    },
   });
 
   const lowsrc = metadata.jpeg[metadata.jpeg.length - 1];
@@ -75,7 +75,7 @@ export const imageShortcode = async (
     height: lowsrc.height,
     alt,
     loading,
-    decoding: loading === 'eager' ? 'sync' : 'async'
+    decoding: loading === 'eager' ? 'sync' : 'async',
   });
 
   const imageElement = caption

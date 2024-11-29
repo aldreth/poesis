@@ -21,8 +21,8 @@ export default {
   syntaxHighlight,
   webc,
   markdownLib,
-	drafts,
+  drafts,
   htmlConfig,
   cssConfig,
-  jsConfig
+  jsConfig,
 };

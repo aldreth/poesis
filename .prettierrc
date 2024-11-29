@@ -4,9 +4,11 @@
   "singleQuote": true,
   "bracketSpacing": false,
   "quoteProps": "consistent",
-  "trailingComma": "none",
+  "trailingComma": "all",
   "arrowParens": "avoid",
-  "plugins": ["prettier-plugin-jinja-template"],
+  "plugins": [
+    "prettier-plugin-jinja-template"
+  ],
   "overrides": [
     {
       "files": "*.njk",

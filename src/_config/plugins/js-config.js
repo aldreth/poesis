@@ -23,7 +23,7 @@ export const jsConfig = eleventyConfig => {
           entryPoints: [inputPath],
           outfile: outputPath,
           bundle: true,
-          minify: true
+          minify: true,
         });
         return;
       }
@@ -35,11 +35,11 @@ export const jsConfig = eleventyConfig => {
           entryPoints: [inputPath],
           bundle: true,
           minify: true,
-          write: false
+          write: false,
         });
 
         return output.outputFiles[0].text;
       };
-    }
+    },
   });
 };

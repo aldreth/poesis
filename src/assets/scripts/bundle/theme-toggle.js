@@ -3,11 +3,11 @@ const lightLabel = '{{ meta.themeSwitch.light }}';
 const darkLabel = '{{ meta.themeSwitch.dark }}';
 const themeColors = {
   dark: '{{ designTokens.colors.items[0].value }}', // Base Dark
-  light: '{{ designTokens.colors.items[1].value }}' // Base Light
+  light: '{{ designTokens.colors.items[1].value }}', // Base Light
 };
 
 const theme = {
-  value: getColorPreference()
+  value: getColorPreference(),
 };
 
 window.onload = () => {

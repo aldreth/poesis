@@ -23,7 +23,7 @@ export const svgToJpeg = async function () {
           outputDir: ogImagesDir,
           filenameFormat: function (id, src, width, format, options) {
             return `${outputFilename}.${format}`;
-          }
+          },
         });
       }
     });
