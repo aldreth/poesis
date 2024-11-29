@@ -5,7 +5,6 @@ description: 'Poesis is a space of invitation… to explore what it means to be 
 layout: page
 ---
 
-# What we’re about
 
 
 
