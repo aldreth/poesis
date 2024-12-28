@@ -146,6 +146,10 @@ a:hover {
   display: grid;
   place-items: center;
 
+  &.cover-image--blank {
+    height: 10em;
+  }
+
   .cover-image__inner {
     padding-block-end: var(--space-l-xl);
     padding-block-start: var(--space-l-xl);

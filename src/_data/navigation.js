@@ -1,16 +1,24 @@
 export default {
   top: [
     {
-      text: 'What',
-      url: '/what/',
+      text: 'What we are',
+      url: '/what-we-are/',
     },
     {
-      text: 'Way',
+      text: "What we're about",
+      url: '/what-were-about/',
+    },
+    {
+      text: 'Way we do',
       url: '/way/',
     },
     {
-      text: 'Who',
+      text: 'Who we are',
       url: '/who/',
+    },
+    {
+      text: 'Contact us',
+      url: '/contact-us/',
     },
   ],
   bottom: [
