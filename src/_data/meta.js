@@ -1,7 +1,7 @@
 export const url = process.env.URL || 'http://localhost:8080';
 export const siteName = 'Poesis';
 export const siteDescription = 'A community project in the process of being set up and seeking funding';
-export const siteType = 'Organisation'; // schema
+export const siteType = 'Organization'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
@@ -13,10 +13,10 @@ export const author = {
   // fediverse: 'https://front-end.social/@lene' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
 };
 export const creator = {
-  name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-  email: 'hola@lenesaile.com',
-  website: 'https://www.lenesaile.com',
-  social: 'https://front-end.social/@lene',
+  name: 'Edward Andrews-Hodgson', // i.e. Lene Saile - creator's (developer) name.
+  email: 'edward@aldreth.com',
+  website: 'https://aldreth.com',
+  social: 'https://social.coop/@edward',
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#DD4462'; //  Manifest: defines the default theme color for the application

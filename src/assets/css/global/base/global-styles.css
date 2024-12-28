@@ -136,3 +136,26 @@ a:hover {
     display: none;
   }
 }
+
+.cover-image {
+  --spot-color: transparent;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+
+  .cover-image__inner {
+    padding-block-end: var(--space-l-xl);
+    padding-block-start: var(--space-l-xl);
+  }
+
+  h2 {
+    font-size: var(--size-step-6);
+  }
+
+  p:not(:first-of-type) {
+    margin-top: var(--space-xs-s);
+  }
+}

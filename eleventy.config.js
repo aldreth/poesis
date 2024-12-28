@@ -51,7 +51,7 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addPlugin(plugins.webc, {
     components: ['./src/_includes/webc/*.webc'],
-    useTransform: true
+    useTransform: true,
   });
 
   // ---------------------  bundle
@@ -73,6 +73,7 @@ export default async function (eleventyConfig) {
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
+  eleventyConfig.addShortcode('imageCssBackground', shortcodes.imageCssBackground);
   eleventyConfig.addShortcode('image', shortcodes.imageShortcode);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
@@ -85,7 +86,7 @@ export default async function (eleventyConfig) {
 
   // -- same path
   ['src/assets/fonts/', 'src/assets/images/template', 'src/assets/og-images'].forEach(path =>
-    eleventyConfig.addPassthroughCopy(path)
+    eleventyConfig.addPassthroughCopy(path),
   );
 
   eleventyConfig.addPassthroughCopy({
@@ -93,7 +94,7 @@ export default async function (eleventyConfig) {
     'src/assets/images/favicon/*': '/',
 
     // -- node_modules
-    'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`
+    'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`,
   });
 
   // --------------------- Build Settings
@@ -107,7 +108,7 @@ export default async function (eleventyConfig) {
       output: 'dist',
       input: 'src',
       includes: '_includes',
-      layouts: '_layouts'
-    }
+      layouts: '_layouts',
+    },
   };
 }
