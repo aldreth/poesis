@@ -3,6 +3,7 @@ title: What we're about
 permalink: /what/index.html
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 layout: page
+coverImage: water
 ---
 
 Poesis is in response to…
@@ -19,7 +20,11 @@ But modernity has brought many great advances also, so how do we decern what we 
 
 Poesis aims to provide a space in which people can explore the relationship between complex global challenges and our inner lives as human beings; to do this in company with others in order that we collectively find new ways of being in relationship with ourselves, each other, nature and the wider world.
 
-## Poesis is about…
+<section class="full | wrapper cover-image cover-image-water">
+  <div class="section__inner region">
+    <h2 id="poesis-is-about">Poesis is about…</h2>
+  </div>
+</section>
 
 …both the wider society we live in and our inner life
 
@@ -49,7 +54,11 @@ Poesis aims to provide a space in which people can explore the relationship betw
 
 … a ‘re-growing of a living culture’ in the words of Doughald Hine
 
-## Pre-assumption
+<section class="full | wrapper cover-image cover-image-water">
+  <div class="section__inner region">
+    <h2 id="pre-assumption">Pre-assumption</h2>
+  </div>
+</section>
 
 Poesis has a starting point that humanity is entering a period of unprecedented transformation whether we’re shaping it or merely responding.
 

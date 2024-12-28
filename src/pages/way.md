@@ -3,13 +3,18 @@ title: Way we do
 permalink: /way/index.html
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 layout: page
+coverImage: oaks
 ---
 
 ## Direction of travel
 
 To contribute to cultural change in response to this time of profound planetary change by creating an intergenerational community space in York, that feels like home, and invites contemplation, exploration, imagination and action for people in York and the surrounding areas and cities; connected to a wider network of people and organisations doing similar things.
 
-## Strands of work
+<section class="full | wrapper cover-image cover-image-oaks">
+  <div class="section__inner region">
+    <h2 id="strands-of-work">Strands of work</h2>
+  </div>
+</section>
 
 Poesis provides a place for people to gather, connect and share, to make sense of the world and our shared predicaments, though;
 
@@ -33,15 +38,15 @@ Poesis provides a place for people to gather, connect and share, to make sense o
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
-## Who the activities and practices will be for
+- Individuals of all ages
+- Organisations societally focussed
+- Community
 
-    Individuals of all ages
-
-    Organisations societally focussed
-
-    Community
-
-## Questions exploring
+<section class="full | wrapper cover-image cover-image-oaks">
+  <div class="section__inner region">
+    <h2 id="Questions exploring">Questions exploring</h2>
+  </div>
+</section>
 
 ### Philosophy
 
