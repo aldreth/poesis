@@ -3,10 +3,8 @@ layout: base
 ---
 
 <article class="wrapper flow prose">
-  <section class="full | cover-image cover-image-{{coverImage}}">
-    <div class="cover-image__inner">
-      <h1>{{title}}</h1>
-    </div>
-  </section>
+  <section
+    class="full | cover-image cover-image--blank cover-image-{{coverImage}}"
+  ></section>
   {{ content | safe }}
 </article>

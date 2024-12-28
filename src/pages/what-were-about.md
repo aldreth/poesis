@@ -1,10 +1,12 @@
 ---
 title: What we're about
-permalink: /what/index.html
+permalink: /what-were-about/index.html
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 layout: page
 coverImage: water
 ---
+
+# What we're about
 
 Poesis is in response to…
 
@@ -22,43 +24,26 @@ Poesis aims to provide a space in which people can explore the relationship betw
 
 <section class="full | wrapper cover-image cover-image-water">
   <div class="section__inner region">
+  <!-- TODO: this h2 is too big -->
     <h2 id="poesis-is-about">Poesis is about…</h2>
+    <p>…both the wider society we live in and our inner life</p>
+    <p>… both how/who we want to be and what we want to do</p>
+    <p>… both the human and more-than-human world</p>
+    <p>… Relationships, connections and wholeness</p>
+    <p>… supporting both healing and agency</p>
+    <p>… creating a space in which to flourish and thrive</p>
+    <p>… sensemaking and meaning making in service of wisdom</p>
+    <p>… our embodied experiences not just our cognitive thoughts</p>
+    <p>… our deeper awakening to our planetary predicament and honouring that reality</p>
+    <p>… hand, heart and soul, as well as systems and society</p>
+    <p>… creating a space of joy that also allows for grief</p>
+    <p>… both mitigation the world’s predicaments, and adaptation to the world as it is and the planetary changes that are to come.</p>
+    <p>… a place that can allow for emergence of what is needed</p>
+    <p>… a ‘re-growing of a living culture’ in the words of Doughald Hine</p>
   </div>
 </section>
 
-…both the wider society we live in and our inner life
-
-… both how/who we want to be and what we want to do
-
-… both the human and more-than-human world
-
-… Relationships, connections and wholeness
-
-… supporting both healing and agency
-
-… creating a space in which to flourish and thrive
-
-… sensemaking and meaning making in service of wisdom
-
-… our embodied experiences not just our cognitive thoughts
-
-… our deeper awakening to our planetary predicament and honouring that reality
-
-… hand, heart and soul, as well as systems and society
-
-… creating a space of joy that also allows for grief
-
-… both mitigation the world’s predicaments, and adaptation to the world as it is and the planetary changes that are to come.
-
-… a place that can allow for emergence of what is needed
-
-… a ‘re-growing of a living culture’ in the words of Doughald Hine
-
-<section class="full | wrapper cover-image cover-image-water">
-  <div class="section__inner region">
-    <h2 id="pre-assumption">Pre-assumption</h2>
-  </div>
-</section>
+## Pre-assumption
 
 Poesis has a starting point that humanity is entering a period of unprecedented transformation whether we’re shaping it or merely responding.
 

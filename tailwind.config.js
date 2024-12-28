@@ -24,6 +24,11 @@ const fontWeight = tokensToTailwind(textWeightTokens.items);
 const lineHeight = tokensToTailwind(textLeadingTokens.items);
 const spacing = tokensToTailwind(clampGenerator(spacingTokens.items));
 
+console.log('*****************');
+console.log(fontSize);
+console.log('*****************');
+
+// TODO: make fonts smaller by changing fontSize
 export default {
   content: ['./src/**/*.{html,js,md,njk,liquid,webc}'],
   presets: [],
@@ -32,7 +37,7 @@ export default {
       ltsm: {max: `${viewportTokens.sm}px`},
       sm: `${viewportTokens.sm}px`,
       md: `${viewportTokens.md}px`,
-      navigation: `${viewportTokens.navigation}px`
+      navigation: `${viewportTokens.navigation}px`,
     },
     colors,
     spacing,
@@ -44,9 +49,9 @@ export default {
     textColor: ({theme}) => theme('colors'),
     margin: ({theme}) => ({
       auto: 'auto',
-      ...theme('spacing')
+      ...theme('spacing'),
     }),
-    padding: ({theme}) => theme('spacing')
+    padding: ({theme}) => theme('spacing'),
   },
   variantOrder: [
     'first',
@@ -64,7 +69,7 @@ export default {
     'focus',
     'focus-visible',
     'active',
-    'disabled'
+    'disabled',
   ],
 
   // Disables Tailwind's reset etc
@@ -72,7 +77,7 @@ export default {
     preflight: false,
     textOpacity: false,
     backgroundOpacity: false,
-    borderOpacity: false
+    borderOpacity: false,
   },
 
   // Prevents Tailwind's core components
@@ -80,7 +85,7 @@ export default {
 
   // Prevents Tailwind from generating that wall of empty custom properties
   experimental: {
-    optimizeUniversalDefaults: true
+    optimizeUniversalDefaults: true,
   },
 
   plugins: [
@@ -96,7 +101,7 @@ export default {
         {key: 'fontSize', prefix: 'size'},
         {key: 'lineHeight', prefix: 'leading'},
         {key: 'fontFamily', prefix: 'font'},
-        {key: 'fontWeight', prefix: 'font'}
+        {key: 'fontWeight', prefix: 'font'},
       ];
 
       groups.forEach(({key, prefix}) => {
@@ -112,7 +117,7 @@ export default {
       });
 
       addComponents({
-        ':root': postcssJs.objectify(postcss.parse(result))
+        ':root': postcssJs.objectify(postcss.parse(result)),
       });
     }),
 
@@ -122,7 +127,7 @@ export default {
       const customUtilities = [
         {key: 'spacing', prefix: 'flow-space', property: '--flow-space'},
         {key: 'spacing', prefix: 'region-space', property: '--region-space'},
-        {key: 'spacing', prefix: 'gutter', property: '--gutter'}
+        {key: 'spacing', prefix: 'gutter', property: '--gutter'},
       ];
 
       customUtilities.forEach(({key, prefix, property}) => {
@@ -134,10 +139,10 @@ export default {
 
         Object.keys(group).forEach(key => {
           addUtilities({
-            [`.${prefix}-${key}`]: postcssJs.objectify(postcss.parse(`${property}: ${group[key]}`))
+            [`.${prefix}-${key}`]: postcssJs.objectify(postcss.parse(`${property}: ${group[key]}`)),
           });
         });
       });
-    })
-  ]
+    }),
+  ],
 };
