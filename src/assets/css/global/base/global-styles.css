@@ -39,15 +39,15 @@ h3 {
 }
 
 h1 {
-  font-size: var(--size-step-6);
-}
-
-h2 {
   font-size: var(--size-step-4);
 }
 
-h3 {
+h2 {
   font-size: var(--size-step-2);
+}
+
+h3 {
+  font-size: var(--size-step-0);
 }
 
 /* Text formatting */
@@ -137,6 +137,7 @@ a:hover {
   }
 }
 
+/* Cover / background images */
 .cover-image {
   --spot-color: transparent;
   background-repeat: no-repeat;
@@ -153,10 +154,6 @@ a:hover {
   .cover-image__inner {
     padding-block-end: var(--space-l-xl);
     padding-block-start: var(--space-l-xl);
-  }
-
-  h2 {
-    font-size: var(--size-step-6);
   }
 
   p:not(:first-of-type) {

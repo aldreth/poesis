@@ -3,7 +3,7 @@ layout: page
 permalink: what-we-are/index.html
 title: What we are
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
-coverImage: stream
+coverImage: hills
 ---
 
 # What we are

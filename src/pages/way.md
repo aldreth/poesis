@@ -36,9 +36,9 @@ Poesis provides a place for people to gather, connect and share, to make sense o
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
-- Individuals of all ages
-- Organisations societally focussed
-- Community
+* Individuals of all ages
+* Organisations societally focussed
+* Community
 
 <section class="full | wrapper cover-image cover-image-oaks">
   <div class="section__inner region">
