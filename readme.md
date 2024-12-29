@@ -3,7 +3,6 @@
 ## TODOs:
 
 - logo
-- remove more from footer
 - contact page
 - domain
 - theme colors ??
