@@ -16,7 +16,7 @@
     "dev:clean": "rimraf src/assets/og-images",
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve --watch",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
-    "start": "npm run dev:clean && npm run coverImages && npm run dev:11ty",
+    "start": "npm run dev:clean && npm run dev:11ty",
     "build": "npm run clean && npm run coverImages && npm run build:11ty"
   },
   "keywords": [],

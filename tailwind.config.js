@@ -24,11 +24,6 @@ const fontWeight = tokensToTailwind(textWeightTokens.items);
 const lineHeight = tokensToTailwind(textLeadingTokens.items);
 const spacing = tokensToTailwind(clampGenerator(spacingTokens.items));
 
-console.log('*****************');
-console.log(fontSize);
-console.log('*****************');
-
-// TODO: make fonts smaller by changing fontSize
 export default {
   content: ['./src/**/*.{html,js,md,njk,liquid,webc}'],
   presets: [],
