@@ -8,4 +8,4 @@ coverImage: web
 
 # Contact us
 
-Get in touch through numerous methods.
+<a href="mailto:fay@insightspace.co.uk">Send Fay an email</a>
