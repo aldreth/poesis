@@ -1,12 +1,8 @@
-article
-  a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(.button) {
+article a[href^='http']:not([href*='localhost:8080']):not([href*='poesis.org.uk']):not(.button) {
   padding-inline-end: 0.8em;
 }
 
-article
-  a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(
-    .no-indicator
-  )::after {
+article a[href^='http']:not([href*='localhost:8080']):not([href*='poesis.org.uk']):not(.no-indicator)::after {
   position: absolute;
   display: inline-block;
   inline-size: 1em;
