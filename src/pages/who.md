@@ -12,7 +12,5 @@ Fay Andrews-Hodgson is the Founder of Poesis. She is a Creator, Coach, Organisat
 
 ## Advisory panel
 
-<!-- TODO: bullet points are red hyphens -->
-
 - Zoe Blackler, director of Kairos
 - Others coming soon

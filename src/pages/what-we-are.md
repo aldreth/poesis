@@ -6,10 +6,8 @@ description: 'Poesis is a space of invitation… to explore what it means to be 
 coverImage: hills
 ---
 
-# What we are
-
 <p>
-  Poesis is an intergenerational community space which invites people to gather
+  <strong>Poesis</strong> will be an intergenerational community space which invites people to gather
   and explore what is means to be human at this time of profound planetary
   change.
 </p>
@@ -19,7 +17,7 @@ coverImage: hills
   meaning.
 </p>
 <p>
-  It is a place provides the space to reflect, contemplate, connect, cultivate,
+  It will be a place which provides space to reflect, contemplate, connect, cultivate,
   be curious, imagine, innovate, heal, as well as develop radical ideas for
   cultural and societal change.
 </p>
@@ -28,7 +26,7 @@ coverImage: hills
   reality and wanting to make a difference through their own lives.
 </p>
 <p>
-  It does this through a combination of activities and practices, supporting us
+  It will do this through a combination of activities and practices, supporting us
   to share collective experiences, collaborate, deepen insight and to be part of
   a healthy living culture.
 </p>

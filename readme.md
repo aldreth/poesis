@@ -2,15 +2,6 @@
 
 ## TODOs:
 
-- logo
-- contact page
-- domain
-- theme colors ??
-  - text - dark blue
-  - lists are red - primary color
-  - selected color - ??
--
-
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/madrilene/eleventy-excellent?style=flat-square&logo=github&logoColor=white&label=GitHub%20stars)
