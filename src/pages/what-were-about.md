@@ -18,26 +18,25 @@ Globally we are facing many interconnecting crises and societally we are increas
 
 But modernity has brought many great advances also, so how do we discern what we want to keep and what needs to evolve? Poesis will help us explore this.
 
-<section class="full | wrapper cover-image cover-image-water">
-  <div class="section__inner region">
-  <!-- TODO: this h2 is too big -->
-    <h2 id="poesis-is-about">Poesis is about…</h2>
-    <p>…both the wider society we live in <strong>and</strong> our inner life</p>
-    <p>… both how/who we want to be <strong>and</strong> what we want to do</p>
-    <p>… both the human <strong>and</strong> more-than-human world</p>
-    <p>… Relationships, connections <strong>and</strong> wholeness</p>
-    <p>… supporting both healing <strong>and</strong> agency</p>
-    <p>… creating a space in which to flourish <strong>and</strong> thrive</p>
-    <p>… sensemaking <strong>and</strong> meaning making in service of wisdom</p>
-    <p>… our embodied experiences not just our cognitive thoughts</p>
-    <p>… our deeper awakening to our planetary predicament <strong>and</strong> honouring that reality</p>
-    <p>… hand, heart and soul, <strong>as well as</strong> systems and society</p>
-    <p>… creating a space of joy that also allows for grief</p>
-    <p>… both mitigation the world’s predicaments, <strong>and</strong> adaptation to the world as it is and the planetary changes that are to come.</p>
-    <p>… a place that can allow for emergence of what is needed</p>
-    <p>… a ‘re-growing of a living culture’ in the words of Doughald Hine</p>
-  </div>
-</section>
+<section
+    class="full | cover-image cover-image--blank cover-image-water"
+  ></section>
+
+<h2 id="poesis-is-about">Poesis is about…</h2>
+<p>…both the wider society we live in <strong>and</strong> our inner life</p>
+<p>… both how/who we want to be <strong>and</strong> what we want to do</p>
+<p>… both the human <strong>and</strong> more-than-human world</p>
+<p>… Relationships, connections <strong>and</strong> wholeness</p>
+<p>… supporting both healing <strong>and</strong> agency</p>
+<p>… creating a space in which to flourish <strong>and</strong> thrive</p>
+<p>… sensemaking <strong>and</strong> meaning making in service of wisdom</p>
+<p>… our embodied experiences not just our cognitive thoughts</p>
+<p>… our deeper awakening to our planetary predicament <strong>and</strong> honouring that reality</p>
+<p>… hand, heart and soul, <strong>as well as</strong> systems and society</p>
+<p>… creating a space of joy that also allows for grief</p>
+<p>… both mitigation the world’s predicaments, <strong>and</strong> adaptation to the world as it is and the planetary changes that are to come.</p>
+<p>… a place that can allow for emergence of what is needed</p>
+<p>… a ‘re-growing of a living culture’ in the words of Doughald Hine</p>
 
 ## Pre-assumption
 
