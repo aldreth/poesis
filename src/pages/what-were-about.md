@@ -6,7 +6,7 @@ layout: page
 coverImage: water
 ---
 
-**Poesis** aims to provide a space in which people can explore the relationship between complex global challenges and our inner lives as human beings; to do this in company with others in order that we collectively find new ways of being in relationship with ourselves, each other, nature and the wider world.
+**Poesis** will aim to provide a space in which people can explore the relationship between complex global challenges and our inner lives as human beings; to do this in company with others in order that we collectively find new ways of being in relationship with ourselves, each other, nature and the wider world.
 
 Modern life is grounded in separation and rationalisation. We belief we can understand the whole by understanding the parts and that only logic has value.
 
