@@ -3,9 +3,7 @@
 
   <div class="site-header | repel ontop">
     <a href="/" class="logo | cluster" {% if page.url == "/" %}aria-current="page"{% endif %}>
-      {% svg "misc/star" %}
-
-      <span class="font-display">{{ meta.siteName }}</span>
+      {% plainImage "./src/assets/images/logo.png", 'Poesis', 'eager', [120], ['jpeg'] %}
     </a>
     {% include "partials/main-nav.njk" %}
   </div>

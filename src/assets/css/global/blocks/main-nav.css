@@ -2,6 +2,7 @@
   --nav-list-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
   position: var(--nav-position, absolute);
   inset-inline-end: 0;
+  align-self: self-end;
 }
 
 .mainnav:has([aria-expanded='true']) {
@@ -145,7 +146,7 @@
   .mainnav [aria-current='page'],
   .mainnav [data-state='active'] {
     --nav-item-background: transparent;
-    --nav-item-text-color: var(--color-primary);
+    --nav-item-text-color: var(--color-tertiary-highlight);
     --nav-item-decoration-color: var(--color-primary);
   }
 }
