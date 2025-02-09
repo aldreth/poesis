@@ -1,16 +1,12 @@
 ---
-title: Way we do
-permalink: /way/index.html
+title: How we do
+permalink: /how/index.html
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 layout: page
 coverImage: oaks
 ---
 
-**Poesis** is intended to contribute to cultural change in response to this time of profound planetary change by creating an intergenerational community space in York, that feels like home, and invites contemplation, exploration, imagination and action for people in York and the surrounding areas and cities; connected to a wider network of people and organisations doing similar things.
-
-## Strands of work
-
-Poesis will provide a place for people to gather, connect and share, to make sense of the world and our shared predicaments, though;
+**Poesis** will provide a place for people to gather, connect and share, to make sense of the world and our shared predicaments, though;
 
 ### Re-view
 
