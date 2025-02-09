@@ -10,24 +10,33 @@ coverImage: oaks
 
 ### Re-view
 
-- Activities that invite reflection, dialogue and action
-- Activities that educate, stimulate and challenge us
-
-_e.g. Talks from thought leaders, dialogue workshops_
+<ul class="mb-2xs">
+<li>Activities that invite reflection, dialogue and action</li>
+<li>Activities that educate, stimulate and challenge us</li>
+</ul>
+<p class="mt-2xs">
+<em>e.g. Talks from thought leaders, dialogue workshops</em>
+</p>
 
 ### Re-connect
 
-- Activities that nurture creativity, play, art, music, dance, storytelling
-- Practices that help us connect to ourselves, others, the wider world (physically, mentally, spiritually), and to what matters
-
-_e.g. Community folk sessions, young person clay sessions_
+<ul class="mb-2xs">
+<li>Activities that nurture creativity, play, art, music, dance, storytelling</li>
+<li>Practices that help us connect to ourselves, others, the wider world (physically, mentally, spiritually), and to what matters</li>
+</ul>
+<p class="mt-2xs">
+<em>e.g. Community folk sessions, young person clay sessions</em>
+</p>
 
 ### Re-nurture
 
-- Practices that cultivate contemplation and imagination
-- Activities that feed us both metaphorically and literally
-
-_e.g. Long table community lunches, mindul meditation_
+<ul class="mb-2xs">
+<li>Activities that feed us both metaphorically and literally</li>
+<li>Activities that educate, stimulate and challenge us</li>
+</ul>
+<p class="mt-2xs">
+<em>e.g. Long table community lunches, mindul meditation</em>
+</p>
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
