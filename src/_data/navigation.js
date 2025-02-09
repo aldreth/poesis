@@ -9,8 +9,8 @@ export default {
       url: '/what-were-about/',
     },
     {
-      text: 'Way we do',
-      url: '/way/',
+      text: 'How we do',
+      url: '/how/',
     },
     {
       text: 'Who we are',
