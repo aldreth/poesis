@@ -13,15 +13,21 @@ coverImage: oaks
 - Activities that invite reflection, dialogue and action
 - Activities that educate, stimulate and challenge us
 
+_e.g. Talks from thought leaders, dialogue workshops_
+
 ### Re-connect
 
 - Activities that nurture creativity, play, art, music, dance, storytelling
 - Practices that help us connect to ourselves, others, the wider world (physically, mentally, spiritually), and to what matters
 
+_e.g. Community folk sessions, young person clay sessions_
+
 ### Re-nurture
 
 - Practices that cultivate contemplation and imagination
 - Activities that feed us both metaphorically and literally
+
+_e.g. Long table community lunches, mindul meditation_
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
