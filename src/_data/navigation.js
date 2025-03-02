@@ -5,12 +5,8 @@ export default {
       url: '/what-we-are/',
     },
     {
-      text: "What we're about",
-      url: '/what-were-about/',
-    },
-    {
-      text: 'How we do',
-      url: '/how/',
+      text: 'What we do',
+      url: '/what-we-do/',
     },
     {
       text: 'Who we are',

@@ -1,12 +1,12 @@
 ---
-title: How we do
-permalink: /how/index.html
+title: What we do
+permalink: /what-we-do/index.html
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 layout: page
 coverImage: oaks
 ---
 
-**Poesis** will provide a place for people to gather, connect and share, to make sense of the world and our shared predicaments, though;
+**Poesis** will provide a place for people to:
 
 ### Re-view
 
@@ -40,7 +40,7 @@ coverImage: oaks
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
-## Who the activities and practices will be for
+## The activities and practices will be for:
 
 - Individuals of all ages
 - Organisations societally focussed
@@ -60,7 +60,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         What it means to be human at this point in time?
     </li>
 </ul>
-<h3>Nature</h3>
+<h3 class="mt-s">Nature</h3>
 <ul>
     <li>
         What does nature need from us right now, beyond stopping carbon emissions and waste?
@@ -69,19 +69,19 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         How do we reshape our relationship to nature?
     </li>
 </ul>
-<h3>History</h3>
+<h3 class="mt-s">History</h3>
 <ul>
     <li>
         What can learning about past civilizations teach us about our situation today?
     </li>
 </ul>
-<h3>Science & Technology</h3>
+<h3 class="mt-s">Science & Technology</h3>
 <ul>
     <li>
         Which technologies are exacerbating our problems, which are distracting fantasises, which are vital for the future?
     </li>
 </ul>
-<h3>Economy</h3>
+<h3 class="mt-s">Economy</h3>
 <ul>
     <li>
         What do we need to measure to have an economy that serves human flourishing?
@@ -90,7 +90,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         What does an economy that recognises all impact of economic production look like?
     </li>
 </ul>
-<h3>Democracy/Politics</h3>
+<h3 class="mt-s">Democracy/Politics</h3>
 <ul>
     <li>
         How do we build longer term thinking into our politics?
@@ -99,7 +99,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         How do we create the conditions to support great leadership?
     </li>
 </ul>
-<h3>Organisations</h3>
+<h3 class="mt-s">Organisations</h3>
 <ul>
     <li>
         How do organisations need to respond to the changing complex world?
@@ -108,7 +108,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         What’s the leadership we really need now and into the future?
     </li>
 </ul>
-<h3>Society</h3>
+<h3 class="mt-s">Society</h3>
 <ul>
     <li>
         How does intentional social change come about? What tools are there to help us?
@@ -117,7 +117,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         As we seek to build more resilient communities, how do we need to rethink about the relationship between individual freedom and social responsibility?  What might we lose, what might we gain?
     </li>
 </ul>
-<h3>Culture</h3>
+<h3 class="mt-s">Culture</h3>
 <ul>
     <li>
         How can we move away from seeing ourselves as consumers towards seeing ourselves as citizens?
@@ -126,7 +126,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         What do we need to do and how we need to be to thrive as a civilization?
     </li>
 </ul>
-<h3>Psychology</h3>
+<h3 class="mt-s">Psychology</h3>
 <ul>
     <li>
         Why as individuals do we find it so hard to break the rules of our system, even though it is taking us down an existential path?
@@ -135,13 +135,13 @@ Where we can be inspired by the wonder of the world and for new ways of being in
         What has meaning for us?
     </li>
 </ul>
-<h3>Religion/Spirituality</h3>
+<h3 class="mt-s">Religion/Spirituality</h3>
 <ul>
     <li>
         What do we need to learn form all the ancient religions and spiritual practices to help us in this time?
     </li>
 </ul>
-<h3>Art</h3>
+<h3 class="mt-s">Art</h3>
 <ul>
     <li>
         What role does art have to play in response to the many planetary changes we face?
