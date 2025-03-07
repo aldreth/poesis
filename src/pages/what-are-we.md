@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: what-we-are/index.html
-title: What we are
+permalink: what-are-we/index.html
+title: What are we?
 description: 'Poesis is a space of invitation… to explore what it means to be human at this point of profound planetary change; using our hands, heart and soul, as well as our relationship with systems and society.'
 coverImage: hills
 ---
+
+## What are we?
 
 <p>
   <strong>Poesis</strong> will be an intergenerational community space which invites people to gather
@@ -12,7 +14,7 @@ coverImage: hills
   change.
 </p>
 <p>
-  We have a need to be connected; to ourselves, to each other and to the wider
+  As humans, we have a need to be connected; to ourselves, to each other and to the wider
   natural world; a need to feel whole and for our lives to make sense and have
   meaning.
 </p>
@@ -42,7 +44,7 @@ coverImage: hills
 <section
     class="full | cover-image cover-image--blank cover-image-hills"
   ></section>
-<h2 id="why-needed">Why is Poesis needed?</h2>
+<h3 id="why-needed">Why is Poesis needed?</h3>
 
 Modern life is grounded in separation and rationalisation. We believe we can understand the whole by understanding the parts and that only logic has value.
 
@@ -74,10 +76,10 @@ But modernity has brought many great advances also, so how do we discern what we
 <p>… a place that can allow for emergence of what is needed</p>
 <p>… a ‘re-growing of a living culture’ in the words of Doughald Hine</p>
 
-## Pre-assumption
+### Pre-assumption
 
 Poesis has a starting point that humanity is entering a period of unprecedented transformation whether we’re shaping it or merely responding.
 
 We don’t find helpful either the imagined futures of great doom or techno-optimism, and are choosing to provide a space where we can explore the path in between these two positions.
 
-**We believe we have agency at a local level and seek to support that.**
+We believe we have agency at a local level and seek to support that.

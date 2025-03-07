@@ -1,8 +1,8 @@
 export default {
   top: [
     {
-      text: 'What we are',
-      url: '/what-we-are/',
+      text: 'What are we?',
+      url: '/what-are-we/',
     },
     {
       text: 'What we do',

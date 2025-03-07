@@ -40,7 +40,7 @@ coverImage: oaks
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
 
-## The activities and practices will be for:
+### The activities and practices will be for:
 
 - Individuals of all ages
 - Organisations societally focussed
@@ -50,7 +50,7 @@ Where we can be inspired by the wonder of the world and for new ways of being in
     class="full | cover-image cover-image--blank cover-image-oaks"
   ></section>
 
-<h2 id="Questions exploring">Questions exploring</h2>
+<h3 id="questions-we-may-explore">Questions we may explore</h3>
 <h3>Philosophy</h3>
 <ul>
     <li>
@@ -98,6 +98,9 @@ Where we can be inspired by the wonder of the world and for new ways of being in
     <li>
         How do we create the conditions to support great leadership?
     </li>
+    <li>
+        How can citizens be more directly involved with governance of our locality?
+    </li>
 </ul>
 <h3 class="mt-s">Organisations</h3>
 <ul>
@@ -138,12 +141,17 @@ Where we can be inspired by the wonder of the world and for new ways of being in
 <h3 class="mt-s">Religion/Spirituality</h3>
 <ul>
     <li>
-        What do we need to learn form all the ancient religions and spiritual practices to help us in this time?
+        What do we need to learn from all the ancient religions and spiritual practices to help us in this time?
     </li>
 </ul>
 <h3 class="mt-s">Art</h3>
 <ul>
     <li>
         What role does art have to play in response to the many planetary changes we face?
+    </li>
+</ul>
+<ul>
+    <li>
+        And many more
     </li>
 </ul>

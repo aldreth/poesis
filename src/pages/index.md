@@ -6,7 +6,7 @@ description: 'Poesis is a space of invitation… to explore what it means to be 
 coverImage: tall-trees
 ---
 
-**Poesis** will be a new kind of community space in York where people of all ages come together to explore what it means to be human during this time of profound planetary change. We're creating a place that's part cultural hub, part learning space, and part community living room - where everyone belongs. Through meaningful dialogue, hands-on workshops, and simply being together, we're finding ways to engage with both global challenges and our inner lives, as a community.
+**Poesis** will be a new kind of community space in York where people of all ages come together to explore what it means to be human during this time of profound planetary change. We're creating a place that's part cultural hub, part learning space, and part community living room - where you can belong. Through meaningful dialogue, hands-on workshops, and simply being together, we're finding ways to engage with both global challenges and our inner lives, as a community.
 
 It is a community project in the process of being set up and seeking funding.
 

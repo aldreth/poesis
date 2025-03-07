@@ -14,3 +14,11 @@ Fay Andrews-Hodgson is the Founder of Poesis. She is a Creator, Coach, Organisat
 
 - Zoe Blackler, director of Kairos
 - Others coming soon
+
+## Network
+
+Poesis has taken inspiration from [Kairos in London](https://www.kairos.london). Poesis will
+share Kairos’ starting point that we are entering a period of unprecedented
+transformation and planetary change, and we intend to share the intention to be a
+space for those wanting to explore topics that emerge from this. We hope that this
+can be the start of a network of similar spaces in every city.
