@@ -11,8 +11,8 @@ coverImage: oaks
 ### Re-view
 
 <ul class="mb-2xs">
-<li>Activities that invite reflection, dialogue and action</li>
 <li>Activities that educate, stimulate and challenge us</li>
+<li>Practices that cultivate contemplation, dialogue and wisdom</li>
 </ul>
 <p class="mt-2xs">
 <em>e.g. Talks from thought leaders, dialogue workshops</em>
@@ -21,21 +21,21 @@ coverImage: oaks
 ### Re-connect
 
 <ul class="mb-2xs">
-<li>Activities that nurture creativity, play, art, music, dance, storytelling</li>
-<li>Practices that help us connect to ourselves, others, the wider world (physically, mentally, spiritually), and to what matters</li>
+<li>Activities that nurture creativity, play, art, music, dance, storytelling, sharing</li>
+<li>Practices that help us connect to ourselves, others, the wider world (physically, mentally, spiritually),  and to what matters</li>
 </ul>
 <p class="mt-2xs">
 <em>e.g. Community folk sessions, young person clay sessions</em>
 </p>
 
-### Re-nurture
+### Re-make
 
 <ul class="mb-2xs">
-<li>Activities that feed us both metaphorically and literally</li>
-<li>Activities that educate, stimulate and challenge us</li>
+<li>Activities that invite reflection and action, both individual and collective</li>
+<li>Practices that support imagination and creativity, in relation to the future we want to create together</li>
 </ul>
 <p class="mt-2xs">
-<em>e.g. Long table community lunches, mindul meditation</em>
+<em>e.g. Imagination practices, open project nights</em>
 </p>
 
 Where we can be inspired by the wonder of the world and for new ways of being in relationship to emerge.
