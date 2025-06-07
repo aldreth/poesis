@@ -12,7 +12,9 @@ Fay Andrews-Hodgson is the Founder of Poesis. She is a Creator, Coach, Organisat
 
 ## Advisory panel
 
-- Zoe Blackler, director of Kairos
+- **Zoe Blackler** is the founder of [Kairos](https://www.kairos.london), a conversation space in central London focused on radical ideas for social and cultural change in response to the polycrisis. She is formerly a journalist.
+- **Joshua Baldwin** is an educator in Greater Manchester, working with young people with social, emotional and mental health difficulties. He has a background in Applied Theatre and supporting young people with learning disabilities, focussing on holistic empowerment through a creative practice.
+- **Kathryn Edwards** is a ritualist with a particular interest in the creative catharsis of grief.
 - Others coming soon
 
 ## Network
